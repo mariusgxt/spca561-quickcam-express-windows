@@ -1,0 +1,6 @@
+libusb1>=3.1
+libusb-package>=1.0.26
+numpy>=1.24
+numba>=0.59
+opencv-python>=4.8
+pyvirtualcam>=0.11
